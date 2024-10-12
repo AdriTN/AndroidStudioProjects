@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PresentationCard</string>
+    <string name="andriodlogo">andriodLogo</string>
+    <string name="logo">logo</string>
+    <string name="adriantalavera">Adrián Talavera</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="phone">phone</string>
+    <string name="textview">TextView</string>
+    <string name="_11_123_444_555_666">+11 (123) 444 555 666</string>
+    <string name="icono_de_tel_fono">Icono de teléfono</string>
+    <string name="icono_de_telefono" />
+    <string name="icono_share" />
+    <string name="icono_email" />
+    <string name="github_adritn">GitHub: AdriTN</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+</resources>
