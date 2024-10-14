@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074807758390",
+    "project_id": "prueba-915a7",
+    "storage_bucket": "prueba-915a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074807758390:android:bed8eda5032cc884f00297",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa6ve05Hg4CWNDztttpaCYzkvi9jJAEcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
