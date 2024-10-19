@@ -2,9 +2,9 @@
 
 Este repositorio contiene dos proyectos de Android Studio que muestran el uso de Firebase Realtime Database y una aplicación de tarjeta de presentación. La finalidad de estos proyectos es aprender a usar elementos básicos de una aplicación desarrollada para un dispositivo móvil e integrar servicios de Firebase.
 
-# Proyectos
+# 1. Proyectos
 
-## 1. Firebase Realtime
+## 1.1. Firebase Realtime
 
 El proyecto FirebaseRealTime muestra como integrar y utilizar la base de datos en tiempo real de Firebase en una aplicación Android. Cubre las siguientes características:
 
@@ -13,7 +13,7 @@ El proyecto FirebaseRealTime muestra como integrar y utilizar la base de datos e
 
 Por motivos de licencia gratuita se ha cerrado la base de datos de firebase conectada a la aplicación.
 
-## 2. Presentation Card
+## 1.2. Presentation Card
 
 El proyecto PresentationCard es una aplicación sencilla en Android que muestra una tarjeta de presentación personalizada (solo personalizable desde el código) con detalles como el nombre del usuario, información de contacto y enlaces a redes sociales.
 
